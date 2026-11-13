@@ -18,19 +18,25 @@ Features
 - Automatic Updates — Stay informed about new versions.
 - Active Development — Regular improvements and community-driven feedback.
 
-## OUTCLASS — Screenshots
+### OUTCLASS — Screenshots
 
-### Discover OUTCLASS
-
+### Screenshot 1
 ![OUTCLASS Screenshot 1](outclass-1-main.png)
 
-### Explore the Interface
+### Screenshot 2
+![OUTCLASS Screenshot 2](outclass-1-thumb.png)
 
-![OUTCLASS Screenshot 2](outclass-2-main.png)
+### Screenshot 3
+![OUTCLASS Screenshot 3](outclass-2-main.png)
 
-### Experience OUTCLASS
+### Screenshot 4
+![OUTCLASS Screenshot 4](outclass-2-thumb.png)
 
-![OUTCLASS Screenshot 3](outclass-3-main.png)
+### Screenshot 5
+![OUTCLASS Screenshot 5](outclass-3-main.png)
+
+### Screenshot 6
+![OUTCLASS Screenshot 6](outclass-3-thumb.png)
 
 Download & Community
 
